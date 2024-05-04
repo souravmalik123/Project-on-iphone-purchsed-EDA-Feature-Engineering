@@ -1,1 +1,1 @@
-# Project-on-iphone-purchsed-EDA-Feature-Engineering
+# Project-on-iphone-purchased-EDA-Feature-Engineering
